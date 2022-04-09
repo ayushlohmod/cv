@@ -1,0 +1,38 @@
+body{
+    background-color: #E5E3C9;
+
+}
+hr{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+   
+    border-width: 5px;
+    width: 7%;
+}
+
+
+  
+
+img {
+    height: 150px; ;
+}
+h1,h3{
+    color:#66BFBF;
+    font-size: 20px;
+
+}
+.col{
+    background-color: black;
+}
+.circular{
+    border-radius: 100%;
+
+
+}
+a:hover{
+    background-color: yellow;
+    transition: background-color .5s;
+
+}
